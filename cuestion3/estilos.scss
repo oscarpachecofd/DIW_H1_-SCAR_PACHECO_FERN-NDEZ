@@ -1,0 +1,42 @@
+$colorFondo:aqua;
+$colorLetra:black;
+$colorBorde:red;
+$colorBordeTabla:green;
+
+
+#titulo{
+    text-align: center;
+}
+
+#formulario{
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-color: $colorFondo;
+}
+
+label h2{
+    color: $colorLetra;
+}
+
+.tarjeta{
+    border: 1px solid $colorBorde;
+}
+
+table{
+    border: 1px solid $colorBordeTabla;
+}
+
+#tabla{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+#logo{
+    height:100px;
+    width:100px;
+    margin: auto;
+}

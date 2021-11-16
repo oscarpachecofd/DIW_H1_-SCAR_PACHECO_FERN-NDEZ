@@ -1,0 +1,38 @@
+#titulo {
+  text-align: center;
+}
+
+#formulario {
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  background-color: aqua;
+}
+
+label h2 {
+  color: black;
+}
+
+.tarjeta {
+  border: 1px solid red;
+}
+
+table {
+  border: 1px solid green;
+}
+
+#tabla {
+  align-content: center;
+  text-align: center;
+  margin: auto;
+}
+
+#logo {
+  height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+/*# sourceMappingURL=estilos.css.map */
